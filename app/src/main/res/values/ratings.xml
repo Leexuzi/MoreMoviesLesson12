@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ratings_array">
+        <item>U</item>
+        <item>PG</item>
+        <item>12A</item>
+        <item>12</item>
+        <item>15</item>
+        <item>18</item>
+        <item>R18</item>
+    </string-array>
+    <string-array name="filter_ratings_array">
+        <item>All</item>
+        <item>U</item>
+        <item>PG</item>
+        <item>12A</item>
+        <item>12</item>
+        <item>15</item>
+        <item>18</item>
+        <item>R18</item>
+    </string-array>
+</resources>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MyMovies</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="enter_movie_title_here">Enter movie title here</string>
+    <string name="genre">Genre</string>
+    <string name="enter_genre_here">Enter genre here</string>
+    <string name="year">Year</string>
+    <string name="enter_year_of_release_here">Enter year of release here</string>
+    <string name="rating">Rating</string>
+    <string name="insert">INSERT</string>
+    <string name="show_list">SHOW LIST</string>
+    <string name="movie_id">Movie ID</string>
+    <string name="enter_movie_id_here">Enter movie ID here</string>
+    <string name="update">UPDATE</string>
+    <string name="delete">DELETE</string>
+    <string name="cancel">CANCEL</string>
+    <string name="add_movie">ADD MOVIE</string>
+</resources>
